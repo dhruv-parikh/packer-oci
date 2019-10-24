@@ -1,11 +1,11 @@
     
     { 
-      "my.user_ocid":"pasteYourUserOCID",
-      "my.tenancy_ocid": "pasteYourTenancyOCID",
-      "my.fingerprint":"pasteYourFingprint",
-      "my.availability_domain": "pasteYourAvailbilityDomain",
-      "my.region": "us-ashburn-1",
-      "my.compartment_ocid": "pasteYourCompartmentOCID",
-      "my.subnet_ocid": "pasteYourSubnetsOCID",
+      "my.user_ocid":"ocid1.user.oc1..aaaaaaaanhfhy5cdto2jqegikke2l2danj2re6qrtp3h3nd5hukb46xmyvhq",
+      "my.tenancy_ocid": "ocid1.tenancy.oc1..aaaaaaaa7l6wfqydzz6otbjnhrloxf4tezittufwjlwbaoxvajvkr6hyxmba",
+      "my.fingerprint":" fc:7a:78:a2:8b:04:1e:ec:ac:7c:bf:24:d1:bc:57:e7",
+      "my.availability_domain": "idpS:CA-TORONTO-1-AD-1",
+      "my.region": "ca-toronto-1",
+      "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaamgocrgdjb5g6idggxvwifpoetpbbubrlqcyzj5x2zzg53p4tzhsq",
+      "my.subnet_ocid": "ocid1.subnet.oc1.ca-toronto-1.aaaaaaaahzk3i3obzw3ava6quc4lqyipnt6kfeuzd4mjrgvfom3e5hj4bvqa",
       "my.base_image_ocid": "ocid1.image.oc1.iad.aaaaaaaarsu56scul4muz3sqbptvykipy2rn6re3wzdjvncgcpgqt5cp3wja"
     }
